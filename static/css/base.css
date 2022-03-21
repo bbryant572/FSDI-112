@@ -1,8 +1,23 @@
+body {
+    background-image: url("https://1stwebdesigner.com/wp-content/uploads/2019/07/css-background-effects-thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: blanchedalmond;
+}
+
 h1 {
     color: red;
+    text-align: center;
 }
 
 .profile-pic {
-
+    margin-left: 615px;
     width: 20%;
+}
+
+p {
+    text-align: center;
+    font-size: 28px;
+    color: rgb(219, 57, 206);
+    margin-top: 25px;
 }
